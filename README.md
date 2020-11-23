@@ -337,6 +337,8 @@ Configuration file has `.yml` file extension, which represents [YAML](https://ya
 
 `NOTE:` Changing these options requires application restart in order for them to take effect (if you're running active monitoring). CLI Arguments are available instantly.
 
+`NOTE:` Best way to use this software, is by streaming your desktop, instead of a specific game.
+
 ---
 
 ## Downloads
